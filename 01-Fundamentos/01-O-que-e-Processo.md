@@ -1,3 +1,17 @@
+## Introdução
+
+Independentemente do setor em que atua — Telecomunicações, Tecnologia, Saúde, Indústria ou Serviços — toda empresa realiza diariamente uma sequência de atividades para entregar um produto ou serviço aos seus clientes.
+
+Essas atividades não acontecem de forma isolada. Elas seguem uma ordem lógica, possuem responsáveis, utilizam recursos e têm um objetivo comum: gerar valor para o cliente.
+
+Esse conjunto organizado de atividades é chamado de processo.
+
+Empresas que conhecem bem seus processos conseguem reduzir custos, aumentar a produtividade, melhorar a qualidade dos serviços e oferecer uma experiência superior aos seus clientes. Por outro lado, processos mal definidos geram atrasos, retrabalho, desperdícios e insatisfação.
+
+É nesse contexto que atua o Consultor de Processos: compreendendo como os processos funcionam atualmente, identificando oportunidades de melhoria e propondo soluções para tornar a operação mais eficiente.
+
+---
+
 ## O que é um Processo?
 
 Um processo é um conjunto de atividades relacionadas que transforma uma entrada (Input) em uma saída (Output), gerando valor para um cliente interno ou externo.
@@ -57,7 +71,7 @@ Todo processo possui:
 
 **Atividade**
 
-É uma tarefa específica.
+É uma tarefa/ação específica.
 
 Exemplos:
 
@@ -67,7 +81,47 @@ Exemplos:
 
 **Processo**
 
-É o conjunto de várias atividades executadas para alcançar um objetivo.
+É o conjunto organizado dessas atividades para atingir um objetivo.
+
+Por exemplo:
+
+Receber pedido
+
+↓
+
+Validar cadastro
+
+↓
+
+Emitir contrato
+
+↓
+
+Agendar instalação
+
+↓
+
+Executar instalação
+
+Todo processo é composto por diversas atividades.
+
+## Processo x Procedimento
+
+Outro conceito importante.
+
+Processo
+
+Define o que precisa acontecer.
+
+Procedimento
+
+Define como cada atividade deve ser executada.
+
+Exemplo:
+
+O processo determina que a equipe técnica deve instalar a internet.
+
+O procedimento descreve passo a passo como essa instalação deve ser realizada.
 
 ---
 
@@ -82,6 +136,9 @@ O mapeamento permite:
 - Melhorar a produtividade.
 - Reduzir custos.
 - Melhorar a experiência do cliente.
+- Atender requisitos regulatório.
+- Facilitar auditorias.
+- Apoiar iniciativas de transformação digital.
 
 ---
 
@@ -101,11 +158,11 @@ Após essa análise, são propostas melhorias para tornar o processo mais rápid
 
 ## Relação com a área de QA
 
-Na área de Qualidade de Software também analisamos processos.
+Embora minha experiência esteja concentrada na área de Qualidade de Software, diversas competências são diretamente aplicáveis à Gestão de Processos.
 
-Ao validar uma funcionalidade, entendemos o fluxo do sistema, identificamos falhas, registramos evidências e acompanhamos a correção.
+Durante minha atuação como QA, participei da análise de fluxos de negócio, validação de requisitos, identificação de falhas, registro de evidências e colaboração com equipes multidisciplinares para garantir a qualidade das entregas.
 
-Essa experiência desenvolve uma visão analítica e de melhoria contínua, muito semelhante ao trabalho de um Consultor de Processos.
+Essa experiência desenvolveu uma visão analítica, sistêmica e orientada à melhoria contínua, competências essenciais para um Consultor de Processos.
 
 ---
 
