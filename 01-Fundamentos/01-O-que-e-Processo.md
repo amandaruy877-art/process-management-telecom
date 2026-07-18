@@ -1,37 +1,18 @@
-</># Capítulo 1 – O que é um Processo?
+## O que é um Processo?
 
-> "Toda empresa funciona por meio de processos. Quando eles são bem definidos, a organização ganha produtividade, reduz custos e entrega mais valor ao cliente."
+Um processo é um conjunto de atividades relacionadas que transforma uma entrada (Input) em uma saída (Output), gerando valor para um cliente interno ou externo.
 
----
-
-# Objetivo
-
-Ao final deste capítulo você será capaz de:
-
-- Compreender o conceito de processo.
-- Identificar os elementos que compõem um processo.
-- Diferenciar processo, atividade e procedimento.
-- Entender o papel dos processos na gestão empresarial.
-- Relacionar esses conceitos ao contexto de Telecomunicações.
+Em outras palavras, é a sequência de etapas necessárias para entregar um produto ou serviço.
 
 ---
 
-# O que é um Processo?
+## Exemplo simples
 
-Um processo é um conjunto de atividades relacionadas que transforma uma **entrada (Input)** em uma **saída (Output)**, agregando valor para um cliente interno ou externo.
+Imagine uma empresa de Telecom que instala internet.
 
-Todo processo possui um objetivo claro e deve ser executado de forma organizada para garantir eficiência, qualidade e previsibilidade.
+Fluxo do processo:
 
----
-
-# Exemplo simples
-
-Imagine que um cliente deseja contratar internet fibra.
-
-O processo pode ocorrer da seguinte forma:
-
-```text
-Cliente solicita serviço
+Cliente solicita internet
 
 ↓
 
@@ -39,185 +20,101 @@ Comercial registra o pedido
 
 ↓
 
-Financeiro realiza a validação
+Financeiro valida o cadastro
 
 ↓
 
-Engenharia verifica viabilidade
+Engenharia verifica disponibilidade
 
 ↓
 
-Equipe técnica agenda a instalação
+Equipe técnica realiza a instalação
 
 ↓
 
-Instalação realizada
+Cliente utiliza o serviço
 
-↓
-
-Cliente conectado
-```
-
-Cada etapa depende da anterior e contribui para a entrega final do serviço.
+Todo esse fluxo representa um processo.
 
 ---
 
-# Os elementos de um processo
+## Elementos de um Processo
 
-Todo processo é composto por:
+Todo processo possui:
 
-| Elemento | Descrição |
-|----------|-----------|
-| Entrada (Input) | O que inicia o processo. |
-| Atividades | Conjunto de tarefas executadas. |
-| Responsáveis | Pessoas ou áreas que executam as atividades. |
-| Recursos | Sistemas, equipamentos e documentos utilizados. |
-| Regras | Políticas, normas e critérios que orientam a execução. |
-| Saída (Output) | Resultado entregue ao cliente. |
-| Cliente | Quem recebe o resultado do processo. |
-
----
-
-# Exemplo aplicado ao setor de Telecom
-
-### Entrada
-
-Solicitação de instalação de internet.
-
-### Atividades
-
-- Cadastro do cliente.
-- Análise financeira.
-- Verificação de cobertura.
-- Agendamento.
-- Instalação.
-
-### Saída
-
-Serviço ativado.
-
-### Cliente
-
-Consumidor final.
+| Elemento | Exemplo |
+|----------|----------|
+| Entrada | Solicitação do cliente |
+| Atividades | Cadastro, validação e instalação |
+| Responsáveis | Comercial, Financeiro e Engenharia |
+| Recursos | Sistemas, equipamentos e pessoas |
+| Saída | Internet instalada |
+| Cliente | Consumidor final |
 
 ---
 
-# Processo x Atividade
+## Processo x Atividade
 
-Uma dúvida comum é a diferença entre processo e atividade.
-
-### Atividade
+**Atividade**
 
 É uma tarefa específica.
 
-Exemplo:
+Exemplos:
 
 - Emitir uma nota fiscal.
-- Aprovar um cadastro.
+- Validar um cadastro.
 - Agendar uma visita técnica.
 
-### Processo
+**Processo**
 
-É o conjunto organizado dessas atividades para atingir um objetivo.
-
----
-
-# Processo x Procedimento
-
-Também é importante diferenciar processo de procedimento.
-
-### Processo
-
-Mostra **o que deve acontecer**.
-
-### Procedimento
-
-Explica **como executar cada atividade**.
-
-Exemplo:
-
-O processo diz que o técnico deve instalar a internet.
-
-O procedimento descreve passo a passo como essa instalação deve ser realizada.
-
----
-
-# A importância da gestão por processos
-
-Empresas adotam a gestão por processos para:
-
-- Padronizar atividades.
-- Reduzir retrabalho.
-- Melhorar a produtividade.
-- Aumentar a qualidade.
-- Diminuir custos.
-- Melhorar a experiência do cliente.
-- Facilitar auditorias.
-- Apoiar iniciativas de transformação digital.
-
----
-
-# Aplicação prática
-
-Imagine que uma empresa identifica que o prazo médio de instalação é de 12 dias.
-
-O Consultor de Processos não propõe imediatamente uma solução.
-
-Primeiro ele busca compreender:
-
-- Como o processo funciona atualmente?
-- Quais áreas participam?
-- Existem aprovações desnecessárias?
-- Há atividades manuais?
-- Existem gargalos?
-- Onde ocorrem os atrasos?
-
-Somente após essa análise são propostas melhorias.
-
----
-
-# Relação com minha experiência em QA
-
-Na área de Qualidade de Software, participei da análise de fluxos de negócio ponta a ponta, identificando falhas, registrando evidências, validando correções e colaborando com equipes multidisciplinares.
-
-Essa experiência desenvolveu uma visão analítica e sistêmica, muito próxima das atividades de um Consultor de Processos.
-
----
-
-# Perguntas frequentes de entrevista
-
-## O que é um processo?
-
-Processo é um conjunto de atividades relacionadas que transforma entradas em saídas, agregando valor ao cliente.
-
----
-
-## Todo processo possui cliente?
-
-Sim. O cliente pode ser interno ou externo.
-
----
-
-## Qual a diferença entre processo e atividade?
-
-Atividade é uma tarefa específica.
-
-Processo é o conjunto organizado dessas atividades.
+É o conjunto de várias atividades executadas para alcançar um objetivo.
 
 ---
 
 ## Por que mapear processos?
 
-Para compreender como o trabalho é realizado, identificar gargalos, eliminar desperdícios e apoiar a melhoria contínua.
+O mapeamento permite:
+
+- Compreender como o processo funciona.
+- Identificar gargalos.
+- Reduzir retrabalho.
+- Padronizar atividades.
+- Melhorar a produtividade.
+- Reduzir custos.
+- Melhorar a experiência do cliente.
 
 ---
 
-# Resumo
+## Aplicação em Telecom
+
+Em uma empresa de Telecom, um Consultor de Processos pode analisar o processo de instalação de internet para identificar:
+
+- Atrasos na instalação.
+- Falhas de comunicação entre áreas.
+- Retrabalho.
+- Aprovações desnecessárias.
+- Sistemas que não estão integrados.
+
+Após essa análise, são propostas melhorias para tornar o processo mais rápido e eficiente.
+
+---
+
+## Relação com a área de QA
+
+Na área de Qualidade de Software também analisamos processos.
+
+Ao validar uma funcionalidade, entendemos o fluxo do sistema, identificamos falhas, registramos evidências e acompanhamos a correção.
+
+Essa experiência desenvolve uma visão analítica e de melhoria contínua, muito semelhante ao trabalho de um Consultor de Processos.
+
+---
+
+## Resumo
 
 Neste capítulo aprendemos que:
 
-- Processos organizam a execução das atividades.
+- Processo é uma sequência de atividades.
 - Todo processo possui entrada, atividades e saída.
-- Processos agregam valor ao cliente.
-- A gestão por processos busca aumentar eficiência, qualidade e produtividade.
-- O Consultor de Processos deve compreender o cenário atual antes de propor melhorias.
+- O objetivo é gerar valor ao cliente.
+- O Consultor de Processos analisa o cenário atual antes de propor melhorias.
+- O mapeamento de processos é o primeiro passo para a melhoria contínua.
