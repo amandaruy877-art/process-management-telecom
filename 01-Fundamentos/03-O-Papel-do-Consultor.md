@@ -119,4 +119,4 @@ Ao final de um projeto, alguns dos principais entregáveis são:
 - O Consultor de Processos analisa e melhora processos organizacionais.
 - Seu objetivo é aumentar a eficiência e gerar valor para o negócio.
 - O trabalho envolve análise, documentação, indicadores e acompanhamento de melhorias.
-- Minha experiência na TIVIT e em QA possui forte relação com as atividades desempenhadas por esse profissional.
+- Minha experiência em BPM e em QA possui forte relação com as atividades desempenhadas por esse profissional.
