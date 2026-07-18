@@ -8,8 +8,6 @@ Esse conjunto organizado de atividades é chamado de processo.
 
 Empresas que conhecem bem seus processos conseguem reduzir custos, aumentar a produtividade, melhorar a qualidade dos serviços e oferecer uma experiência superior aos seus clientes. Por outro lado, processos mal definidos geram atrasos, retrabalho, desperdícios e insatisfação.
 
-É nesse contexto que atua o Consultor de Processos: compreendendo como os processos funcionam atualmente, identificando oportunidades de melhoria e propondo soluções para tornar a operação mais eficiente.
-
 ---
 
 ## O que é um Processo?
