@@ -170,6 +170,4 @@ A Matriz Esforço x Impacto prioriza soluções considerando o esforço necessá
 
 ---
 
-# Próximo capítulo
 
-Após priorizar os problemas e definir as melhorias, o consultor consolida todas as informações em um **Relatório de Diagnóstico**, documento que servirá como base para o mapeamento do processo As Is e para o desenho do processo futuro (To Be).
