@@ -51,23 +51,29 @@ Uma equipe de QA está avaliando seu processo de testes para aumentar a qualidad
 
 ---
 
-## Exemplo aplicado em Telecomunicações
+# Exemplo aplicado em Telecomunicações
 
-### Cenário
+## Cenário
 
-Uma central de atendimento deseja reduzir o tempo médio de resolução dos chamados e aumentar a satisfação dos clientes.
+Uma empresa de telecomunicações identificou aumento no número de reclamações relacionadas ao atendimento, tempo de resolução de incidentes e indisponibilidade de serviços. A gestão decidiu utilizar a Análise SWOT para avaliar o cenário e definir estratégias de melhoria.
 
-| Forças | Fraquezas |
-|--------|-----------|
-| Equipe experiente | Alto volume de chamados |
-| Indicadores de desempenho (KPIs) bem definidos | Retrabalho em alguns processos |
-| Ferramentas de monitoramento | Dependência de sistemas legados |
+### Ambiente Interno
 
-| Oportunidades | Ameaças |
-|---------------|----------|
-| Implantação de Inteligência Artificial no atendimento | Crescimento da concorrência |
-| Automação de processos | Mudanças regulatórias (ANATEL) |
-| Treinamento contínuo das equipes | Aumento da demanda sem ampliação da equipe |
+| Forças (Strengths) | Fraquezas (Weaknesses) |
+|--------------------|------------------------|
+| Equipe técnica qualificada | Alto volume de chamados simultâneos |
+| Central de monitoramento 24x7 | Dependência de sistemas legados |
+| Indicadores de desempenho (KPIs) consolidados | Retrabalho em alguns processos |
+| Processos padronizados de atendimento | Tempo elevado para resolução de incidentes |
+
+### Ambiente Externo
+
+| Oportunidades (Opportunities) | Ameaças (Threats) |
+|-------------------------------|-------------------|
+| Automação do atendimento com Inteligência Artificial | Crescimento da concorrência |
+| Modernização da infraestrutura de rede | Mudanças regulatórias da ANATEL |
+| Capacitação contínua das equipes | Aumento da demanda por serviços digitais |
+| Implantação de ferramentas de monitoramento preditivo | Falhas de energia, eventos climáticos e vandalismo na rede |
 
 ---
 
