@@ -51,6 +51,26 @@ Uma equipe de QA está avaliando seu processo de testes para aumentar a qualidad
 
 ---
 
+## Exemplo aplicado em Telecomunicações
+
+### Cenário
+
+Uma central de atendimento deseja reduzir o tempo médio de resolução dos chamados e aumentar a satisfação dos clientes.
+
+| Forças | Fraquezas |
+|--------|-----------|
+| Equipe experiente | Alto volume de chamados |
+| Indicadores de desempenho (KPIs) bem definidos | Retrabalho em alguns processos |
+| Ferramentas de monitoramento | Dependência de sistemas legados |
+
+| Oportunidades | Ameaças |
+|---------------|----------|
+| Implantação de Inteligência Artificial no atendimento | Crescimento da concorrência |
+| Automação de processos | Mudanças regulatórias (ANATEL) |
+| Treinamento contínuo das equipes | Aumento da demanda sem ampliação da equipe |
+
+---
+
 # Aplicação em QA
 
 A Análise SWOT pode apoiar equipes de Qualidade de Software em diversas situações, como:
