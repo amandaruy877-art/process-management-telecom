@@ -91,6 +91,23 @@ Também pode ser utilizada em retrospectivas e reuniões de planejamento para ap
 
 ---
 
+# Aplicação em Telecomunicações
+
+A Análise SWOT auxilia gestores e equipes de telecomunicações na identificação de oportunidades de melhoria e na definição de estratégias para aumentar a eficiência operacional.
+
+Algumas aplicações práticas incluem:
+
+- Avaliação da qualidade do atendimento ao cliente.
+- Planejamento de melhorias nos processos operacionais.
+- Priorização de investimentos em infraestrutura.
+- Identificação de riscos operacionais.
+- Redução do tempo médio de atendimento (TMA).
+- Redução do tempo médio de resolução (TMR).
+- Planejamento estratégico da operação.
+- Melhoria contínua dos indicadores de desempenho (KPIs).
+
+---
+
 # Vantagens
 
 - Fácil de compreender e aplicar.
